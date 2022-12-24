@@ -1,5 +1,5 @@
 <div align="center">
-    <p style="font-size:150px; margin-bottom: 0">&#129447;</p>
+    <img src="./examples/logo.png">
 </div>
 
 <h3 align="center">
